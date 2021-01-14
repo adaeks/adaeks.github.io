@@ -1,0 +1,71 @@
+# Site settings
+title: Adam Ekström
+email: adaeks@kth.se
+url: https://adaeks.github.io
+description: "My portfolio page."
+keywords: "Adam Ekström, adaeks, coding, programming, portfolio"
+skills: "Developer - MSc Computer Science @ KTH"
+meta_author: Ekström Adam
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: d8bc13 #a7414a #80B3FF
+  primary-rgb: "167,65,74" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Adam Ekström
+  location: Stockholm
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: https://www.facebook.com/adam.ekstrom.7
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/adaeks
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Lindhagesngatan 65
+  - line: 11243 Stockholm 
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>, <br>Icons by <a href="https://www.flaticon.com/authors/eucalyp">Eucalyp</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

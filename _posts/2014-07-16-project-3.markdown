@@ -1,0 +1,29 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: cv.png
+title: Curriculum Vitae
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: 
+<div class="row" style="text-align:center">
+                    <div class="col-lg-4 col-lg-offset-2">
+                        <h3>WORK</h3>
+                        <p><b> Alarm Operator </b><br> Securitas <br> 2013 - 2016 </p><br>
+                        <p><b> Guard </b><br> Securitas <br> 2010 - 2013 </p><br>
+                        <p><b> Warehouse </b><br> Börjesson Hanskar AB <br> 2010 - 2013</p><br>
+                    </div>
+                    <div class="col-lg-4">
+                        <h3>EDUCATION</h3>
+                        <p><b>MSc Computer Science</b><br> KTH<br> 2016 - 2021</p><br>
+                    </div>
+                </div>
+                <div class="row" style="text-align:center">
+                    <h3>COMPETENCY</h3>
+                    <p>Java, Python, C#, C++, Git</p><br>
+                    <p>Unity</p><br>
+                </div>
+---
