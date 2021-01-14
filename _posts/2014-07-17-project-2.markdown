@@ -9,4 +9,8 @@ alt: image-alt
 #client: Start Bootstrap
 #category: Web Development
 description: Here are some of the assignments I've been a part of during my studies at KTH.
+
+<br><br><br><a href="pdf/sudoku.pdf"> AI that solves sudoku puzzles with a GUI showing placement step by step.</a>
+
+[Bachelor Thesis: A framework that can be used to measure the time distribution for injection, detection and the fixing of software errors](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1395015)
 ---
