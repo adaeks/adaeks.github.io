@@ -14,7 +14,7 @@ description:
                         <h3>WORK</h3>
                         <p><b> Alarm Operator </b><br> Securitas <br> 2013 - 2016 </p><br>
                         <p><b> Guard </b><br> Securitas <br> 2010 - 2013 </p><br>
-                        <p><b> Warehouse </b><br> Börjesson Hanskar AB <br> 2010 - 2013</p><br>
+                        <p><b> Warehouse </b><br> Börjesson Handskar AB <br> 2010 - 2013</p><br>
                     </div>
                     <div class="col-lg-4">
                         <h3>EDUCATION</h3>

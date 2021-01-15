@@ -9,11 +9,4 @@ alt: image-alt
 #client: Start Bootstrap
 #category: Web Development
 description: Here are some of the assignments I've been a part of during my studies at KTH.
-                <div class="row" style="text-align:center">
-                    <div class="col-lg-4 col-lg-offset-2">
-                        #<p><b> [Bachelor Thesis - A framework that can be used to measure the time distribution for injection, detection and the fixing of software errors](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1395015) </b><br> 
-                        <p><b> Guard </b><br> 
-                        <p><b> Warehouse </b><br> 
-                    </div>
-                </div>
 ---
