@@ -24,6 +24,6 @@ description:
                 <div class="row" style="text-align:center">
                     <h3>COMPETENCY</h3>
                     <p>Java, Python, C#, C++, Git</p><br>
-                    <p>Unity</p><br>
+                    <p>Elixir, Unity</p><br>
                 </div>
 ---
