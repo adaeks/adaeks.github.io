@@ -8,5 +8,5 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Here are some of the assignments I've been a part of during my studies at KTH. <br><br><br><a href="pdf/sudoku.pdf"> Sudoku solver implemented using a rule-based and heuristic approach, includes GUI showing each step/a><br><br><br><a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2:1395015">Bachelor Thesis - A framework that can be used to measure the time distribution for injection, detection and the fixing of software errors</a><br><br><br>
+description: Here are some of the assignments I've been a part of during my studies at KTH. <br><br><br><a href="pdf/sudoku.pdf"> Sudoku solver implemented using a rule-based and heuristic approach, includes GUI showing each step</a><br><br><br><a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2:1395015">Bachelor Thesis - A framework that can be used to measure the time distribution for injection, detection and the fixing of software errors</a><br><br><br>
 ---
