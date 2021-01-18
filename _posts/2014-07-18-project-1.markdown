@@ -8,5 +8,5 @@ alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Here are some projects I've been working on. <br><br><br><a href="https://github.com/adaeks/raytracer"> Raytracer. <br><br><br><a href="https://github.com/adaeks/mandelbrot"> Mandelbrot visualization, <br><br><br><img src="img/portfolio/mandelbrot.ppm" style="border-radius:25px;" class="img-responsive img-centered">. 
+description: Here are some projects I've been working on. <br><br><br><a href="https://github.com/adaeks/raytracer"> Raytracer. </a><br><br><br><a href="https://github.com/adaeks/mandelbrot"> Mandelbrot visualization. </a><br><br><br><img src="img/portfolio/mandelbrot.ppm" style="border-radius:25px;" class="img-responsive img-centered"> 
 ---
